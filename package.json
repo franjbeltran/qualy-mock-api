@@ -1,0 +1,11 @@
+{
+	"name": "qualy-mock-api",
+	"version": "1.0.0",
+	"description": "JSON mock API for the Qualy frontend",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Fran Beltrán",
+	"license": "ISC"
+}
