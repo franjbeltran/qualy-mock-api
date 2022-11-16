@@ -48,5 +48,14 @@
             "name": "Sushi Go!",
             "image": "https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-sushi-go-2013-1061349176.jpg"
         }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "username": "test",
+            "password": "test",
+            "name": "Fran",
+            "role": 1
+        }
     ]
 }
