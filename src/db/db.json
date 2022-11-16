@@ -1,0 +1,34 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Saboteur",
+            "image": "https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-saboteur-2004-743084663.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Risk",
+            "image": "https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-risk-1959-920342532.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Carcassone",
+            "image": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__imagepagezoom/img/Uot8PDJpJKZ7asDoB9Pw3zb3jnc=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6544250.png"
+        },
+        {
+            "id": 4,
+            "name": "Catan",
+            "image": "https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-catan-1995-1918065933.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Virus",
+            "image": "https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-virus-2015-1544494627.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Sushi Go!",
+            "image": "https://www.ludonauta.es/files/ludico/juegos-mesas/juego-mesa-sushi-go-2013-1061349176.jpg"
+        }
+    ]
+}
