@@ -8,7 +8,6 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Fran Beltrán",
-	"license": "ISC",
 	"dependencies": {
 		"json-server": "^0.17.1"
 	}
