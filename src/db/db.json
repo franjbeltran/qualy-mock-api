@@ -1,4 +1,22 @@
 {
+    "categories": [
+        {
+            "id": 1,
+            "name": "Board games"
+        },
+        {
+            "id": 2,
+            "name": "Motorsport"
+        },
+        {
+            "id": 3,
+            "name": "Athletics"
+        },
+        {
+            "id": 4,
+            "name": "Games"
+        }
+    ],
     "games": [
         {
             "id": 1,
